@@ -9,7 +9,7 @@
  5. Add the path for glue as "classpath:com.assignment.tests" in default configuration of "Cucumber java".
  6. Right click the scenario and run.
  
- You can run the tests from terminal as well using following command:
+ You can run the tests from terminal as well  using following command:
  ` mvn -Dtest=RunCukes test -P Cucumber,qa-chrome`
  
  
